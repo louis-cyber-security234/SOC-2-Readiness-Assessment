@@ -35,9 +35,3 @@ A concise, auditor-friendly walkthrough assessing an AWS environment against SOC
 - Leaders who need a fast, visual path to audit readiness
 - Engineers who want a minimal, native-AWS approach without extra tooling
 
-## Notes
-- This demo focuses on AWS native services: CloudTrail, AWS Config, and conformance packs
-- No Amazon Inspector was used in this walkthrough
-- Screens and names are illustrative and safe for sharing
-
-
