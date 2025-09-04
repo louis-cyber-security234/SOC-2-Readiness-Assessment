@@ -40,4 +40,4 @@ A concise, auditor-friendly walkthrough assessing an AWS environment against SOC
 - No Amazon Inspector was used in this walkthrough
 - Screens and names are illustrative and safe for sharing
 
-> Questions or a tailored run-through? Open an issue or reach out.
+
